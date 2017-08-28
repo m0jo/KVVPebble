@@ -1,0 +1,41 @@
+{
+    "author": "timbuecher@mailbox.org",
+    "dependencies": {},
+    "keywords": [],
+    "name": "kvvpebble",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "KVVPebble",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "route",
+            "destination",
+            "direction",
+            "time",
+            "vehicleType",
+            "lowfloor",
+            "realtime",
+            "traction",
+            "stopPosition"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "3d3ddc2e-329a-4b05-8c1e-85e330d09ffa",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
